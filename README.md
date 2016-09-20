@@ -1,2 +1,2 @@
 # Van
-Coding within Vancouver, BC
+Coding within Vancouver, BC, Canada
